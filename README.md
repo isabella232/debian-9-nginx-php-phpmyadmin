@@ -1,1 +1,1 @@
-# ubuntu-16-nginx-php-phpmyadmin
+# debian-9-nginx-php-phpmyadmin
